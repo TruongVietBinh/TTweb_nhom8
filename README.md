@@ -1,7 +1,7 @@
 # TTweb_nhom8
 
 Lớp DHTI12A1HN
-Giảng viên ; Trần Hồng Việt
+Giảng viên : Trần Hồng Việt
 
 Đề tài: Web shop thời trang
 
